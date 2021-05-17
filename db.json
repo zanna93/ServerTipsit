@@ -1,0 +1,54 @@
+{
+    "classroom": [
+        {
+            "id": 1,
+            "aula": "Lab1"
+        },
+        {
+            "id": 2,
+            "aula": "LAb2"
+        },
+        {
+            "id": 3,
+            "aula": "Lab3"
+        },
+        {
+            "id": 4,
+            "aula": "Lab4"
+        },
+        {
+            "id": 5,
+            "aula": "Lab5"
+        },
+        {
+            "id": 6,
+            "aula": "Lab6"
+        },
+        {
+            "id": 7,
+            "aula": "Lab7"
+        },
+        {
+            "id": 8,
+            "aula": "Lab8"
+        }
+    ],
+
+    "account": [
+        {
+            "id": 1,
+            "username": "admin",
+            "password": "admin"
+        },
+        {
+            "id": 2,
+            "username": "francesco.russo",
+            "password": "francesco"
+        },
+        {
+            "id": 3,
+            "username": "alessandro.rossi",
+            "password": "rossi"
+        }
+    ]
+}
